@@ -13,3 +13,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3> Um pouco sobre o projeto </h3>
+
+<p>
+  Esse projeto foi desenvolvido durante 5 dias com o intúito de criar um SPA 
+  abordando questões praticas com ReactJs, Typescript e Firebase. Foi uma semana
+  longa, mas valeu o esforço.
+</p>
+
+<h3> Acessando o Projeto </h3>
+
+<p> Para acessar o projeto [clique aqui](https://letmeask-1eda1.web.app/) </p>
+
+<h3> Está com dúvidas? </h3>
+
+<p> Mande um email para <feliperhoden@gmail.com> </p>
+
+<hr />
+
+<p align="center"> Obrigado pelo apoio 👍 </p>
