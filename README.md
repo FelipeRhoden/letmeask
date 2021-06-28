@@ -29,7 +29,7 @@
 <h3> Está com dúvidas? </h3>
 
 <p> Mande um email para 
-  <a href="mailto:feliperhoden@gmail.com">feliperhoden@gmail.com</a>  
+  <a href="mailto:feliperrhoden@gmail.com">feliperrhoden@gmail.com</a>  
 </p>
 
 <hr />
