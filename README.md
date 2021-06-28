@@ -4,7 +4,7 @@
 <img src="./src/assets/images/logo.svg" alt="Letmeask">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feliperhoden&label=Profile%20views&color=0e75b6&style=flat" alt="feliperhoden" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=feliperhoden&label=Profile%20views&color=0e75b6&style=flat" alt="feliperhoden" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
