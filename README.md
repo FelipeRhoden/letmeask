@@ -24,7 +24,7 @@
 
 <h3> Acessando o Projeto </h3>
 
-<p> Para acessar o projeto [clique aqui](https://letmeask-1eda1.web.app/) </p>
+<p> Para acessar o projeto <a href="https://letmeask-1eda1.web.app/">clique aqui</a></p>
 
 <h3> Está com dúvidas? </h3>
 
